@@ -35,17 +35,20 @@ h1 {
 }
 
 #sushiHeading{
-    background-color: rgb(236, 236, 131);
+    background-color: rgb(214, 193, 100);
 }
 
 #chickenHeading , #beefHeading, #sushiHeading {
     border :1px solid black;
+    width : 110px;
+    text-align: center;
+    margin: 0px;
     padding : 5px;
     display: inline;
     float: right;
     position: relative;
-    top :-25px;
-    right: -5px;
+    top :-6px;
+    right: -6px;
 }
 
 #chickenText, #beefText, #sushiText{
