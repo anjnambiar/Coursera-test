@@ -1,6 +1,10 @@
 
 /*css for module 2 assignment*/
 
+*{
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 h1 {
     color: black;
     text-align: center;
@@ -36,6 +40,7 @@ h1 {
 
 #chickenHeading , #beefHeading, #sushiHeading {
     border :1px solid black;
+    padding : 5px;
     display: inline;
     float: right;
     position: relative;
@@ -136,7 +141,7 @@ h1 {
         width: 91.66%;
     }
     .col-md-12{
-        width: 100%;
+        width: 99%;
     }
 
 }
@@ -182,7 +187,7 @@ h1 {
         width: 91.66%;
     }
     .col-sm-12{
-        width: 100%;
+        width: 99%;
     }
 
 }
