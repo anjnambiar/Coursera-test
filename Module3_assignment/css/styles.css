@@ -70,7 +70,7 @@ h2 {
 }
 
 @media (min-width : 768px)  {
- #collapsable-nav {
-     visibility: hidden;
+ #collapsable-nav { 
+     visibility:collapse;
  }
 }
