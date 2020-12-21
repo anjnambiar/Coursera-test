@@ -6,7 +6,7 @@
     border-width: 5px;
     border-left: 0;
     border-right: 0;
-    height: 70px;
+   
 }
 
 .navbar-brand h1 {
@@ -61,12 +61,17 @@ h2 {
     font-weight: bold;
 }
 
-.jumbotron {
+#maincontent {
+    margin: 20px;
+}
+
+#contentid {
     background-color: rgb(123, 122, 122);
     font-weight: bold;
     color: black;
     font-size: 1.2em;
     font-family: 'Trebuchet MS', sans-serif;
+    padding: 10px;
 }
 
 @media (min-width : 768px)  {
